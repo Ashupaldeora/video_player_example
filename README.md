@@ -1,16 +1,21 @@
-# video_player_example
+# Flutter Video Player
 
-A new Flutter project.
 
-## Getting Started
+A customizable and feature-rich video player built using Flutter.
 
-This project is a starting point for a Flutter application.
+## Features
+* Play, pause, and seek video
+* Full-screen mode
+* Supports multiple video formats
+* Easy integration 
+## Screenshots
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<div align="center">
+   <img src="https://github.com/Ashupaldeora/video_player_example/assets/143180848/aaa88a08-c693-47c9-a8d8-24a8ce2dde2f" height=500px >
+ 
+  <img src="https://github.com/Ashupaldeora/video_player_example/assets/143180848/181083b1-20c7-4ccf-bdcb-0c9a4dfacae3" height=500px >
+  
+ 
+ 
+  
+</div>
