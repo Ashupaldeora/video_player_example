@@ -15,7 +15,11 @@ A customizable and feature-rich video player built using Flutter.
  
   <img src="https://github.com/Ashupaldeora/video_player_example/assets/143180848/181083b1-20c7-4ccf-bdcb-0c9a4dfacae3" height=500px >
   
- 
+ <video src="https://github.com/Ashupaldeora/video_player_example/assets/143180848/261adea6-7e9b-442f-bfd7-f5d18f7d570c"></video>
  
   
 </div>
+
+
+
+
